@@ -1,0 +1,20 @@
+package defpackage;
+
+import android.R;
+
+/* loaded from: classes.dex */
+public abstract class NR {
+    public static final int[] a = {R.attr.selectableItemBackground, androidx.test.annotation.R.attr.selectableItemBackground};
+    public static final int[] b = {R.attr.summaryOn, R.attr.summaryOff, R.attr.disableDependentsState, androidx.test.annotation.R.attr.disableDependentsState, androidx.test.annotation.R.attr.summaryOff, androidx.test.annotation.R.attr.summaryOn};
+    public static final int[] c = {R.attr.dialogTitle, R.attr.dialogMessage, R.attr.dialogIcon, R.attr.positiveButtonText, R.attr.negativeButtonText, R.attr.dialogLayout, androidx.test.annotation.R.attr.dialogIcon, androidx.test.annotation.R.attr.dialogLayout, androidx.test.annotation.R.attr.dialogMessage, androidx.test.annotation.R.attr.dialogTitle, androidx.test.annotation.R.attr.negativeButtonText, androidx.test.annotation.R.attr.positiveButtonText};
+    public static final int[] d = {androidx.test.annotation.R.attr.useSimpleSummaryProvider};
+    public static final int[] e = {R.attr.entries, R.attr.entryValues, androidx.test.annotation.R.attr.entries, androidx.test.annotation.R.attr.entryValues, androidx.test.annotation.R.attr.useSimpleSummaryProvider};
+    public static final int[] f = {R.attr.entries, R.attr.entryValues, androidx.test.annotation.R.attr.entries, androidx.test.annotation.R.attr.entryValues};
+    public static final int[] g = {R.attr.icon, R.attr.persistent, R.attr.enabled, R.attr.layout, R.attr.title, R.attr.selectable, R.attr.key, R.attr.summary, R.attr.order, R.attr.widgetLayout, R.attr.dependency, R.attr.defaultValue, R.attr.shouldDisableView, R.attr.fragment, R.attr.singleLineTitle, R.attr.iconSpaceReserved, androidx.test.annotation.R.attr.allowDividerAbove, androidx.test.annotation.R.attr.allowDividerBelow, androidx.test.annotation.R.attr.defaultValue, androidx.test.annotation.R.attr.dependency, androidx.test.annotation.R.attr.enableCopying, androidx.test.annotation.R.attr.enabled, androidx.test.annotation.R.attr.fragment, androidx.test.annotation.R.attr.icon, androidx.test.annotation.R.attr.iconSpaceReserved, androidx.test.annotation.R.attr.isPreferenceVisible, androidx.test.annotation.R.attr.key, androidx.test.annotation.R.attr.layout, androidx.test.annotation.R.attr.order, androidx.test.annotation.R.attr.persistent, androidx.test.annotation.R.attr.selectable, androidx.test.annotation.R.attr.shouldDisableView, androidx.test.annotation.R.attr.singleLineTitle, androidx.test.annotation.R.attr.summary, androidx.test.annotation.R.attr.title, androidx.test.annotation.R.attr.widgetLayout};
+    public static final int[] h = {R.attr.layout, R.attr.divider, R.attr.dividerHeight, androidx.test.annotation.R.attr.allowDividerAfterLastItem};
+    public static final int[] i = {R.attr.orderingFromXml, androidx.test.annotation.R.attr.initialExpandedChildrenCount, androidx.test.annotation.R.attr.orderingFromXml};
+    public static final int[] j = {R.attr.maxWidth, R.attr.maxHeight, androidx.test.annotation.R.attr.maxHeight, androidx.test.annotation.R.attr.maxWidth};
+    public static final int[] k = {R.attr.layout, R.attr.max, androidx.test.annotation.R.attr.adjustable, androidx.test.annotation.R.attr.min, androidx.test.annotation.R.attr.seekBarIncrement, androidx.test.annotation.R.attr.showSeekBarValue, androidx.test.annotation.R.attr.updatesContinuously};
+    public static final int[] l = {R.attr.summaryOn, R.attr.summaryOff, R.attr.disableDependentsState, R.attr.switchTextOn, R.attr.switchTextOff, androidx.test.annotation.R.attr.disableDependentsState, androidx.test.annotation.R.attr.summaryOff, androidx.test.annotation.R.attr.summaryOn, androidx.test.annotation.R.attr.switchTextOff, androidx.test.annotation.R.attr.switchTextOn};
+    public static final int[] m = {R.attr.summaryOn, R.attr.summaryOff, R.attr.disableDependentsState, R.attr.switchTextOn, R.attr.switchTextOff, androidx.test.annotation.R.attr.disableDependentsState, androidx.test.annotation.R.attr.summaryOff, androidx.test.annotation.R.attr.summaryOn, androidx.test.annotation.R.attr.switchTextOff, androidx.test.annotation.R.attr.switchTextOn};
+}

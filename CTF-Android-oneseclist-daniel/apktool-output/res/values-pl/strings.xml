@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+    <string name="abc_action_mode_done">Gotowe</string>
+    <string name="abc_capital_off">WYŁ.</string>
+    <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Funkcyjny+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spacja</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz.</string>
+    <string name="copy">Kopiuj</string>
+    <string name="default_popup_window_title">Wyskakujące okienko</string>
+    <string name="expand_button_title">Zaawansowane</string>
+    <string name="in_progress">W toku</string>
+    <string name="indeterminate">Częściowo zaznaczone</string>
+    <string name="navigation_menu">Menu nawigacyjne</string>
+    <string name="not_selected">Nie wybrano</string>
+    <string name="not_set">Nie ustawiono</string>
+    <string name="off">Wyłączono</string>
+    <string name="on">Włączono</string>
+    <string name="preference_copied">Skopiowano „%1$s” do schowka.</string>
+    <string name="selected">Wybrano</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="switch_role">Przełącznik</string>
+    <string name="tab">Karta</string>
+    <string name="template_percent">%1$d procent.</string>
+    <string name="tooltip_description">etykietka</string>
+    <string name="tooltip_label">pokaż etykietkę</string>
+    <string name="v7_preference_off">WYŁ.</string>
+    <string name="v7_preference_on">WŁ.</string>
+</resources>

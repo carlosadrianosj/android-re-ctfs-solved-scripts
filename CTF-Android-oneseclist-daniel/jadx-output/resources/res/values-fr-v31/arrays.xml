@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="theme_labels">
+        <item>Auto (Android OS)</item>
+        <item>Clair</item>
+        <item>Sombre</item>
+        <item>Dynamique (Basé sur votre fond d\'écran)</item>
+    </array>
+    <array name="theme_values">
+        <item>auto</item>
+        <item>light</item>
+        <item>dark</item>
+        <item>dynamic</item>
+    </array>
+</resources>

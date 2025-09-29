@@ -1,0 +1,24 @@
+.class public abstract Luh;
+.super Ljava/lang/Object;
+.source ""
+
+
+# static fields
+.field public static final a:LnO;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    .line 1
+    sget-object v0, LnO;->n:LnO;
+
+    .line 2
+    .line 3
+    sput-object v0, Luh;->a:LnO;
+
+    .line 4
+    .line 5
+    return-void
+.end method

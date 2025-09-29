@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppThemeLauncher" parent="@style/AppThemeLauncherV31Night" />
+    <style name="AppThemeLauncherV31Night" parent="@style/AppThemeLauncherV28Night">
+        <item name="android:windowBackground">@color/pure_white</item>
+        <item name="android:windowSplashScreenBackground">@color/windowSplashScreenBackground</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+    </style>
+</resources>
