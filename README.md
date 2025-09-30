@@ -8,4 +8,4 @@ Repository for scripts, notes, and artifacts from Android reverse engineering CT
   - **Source repositories**:
     - Challenge: [android-re-ctfs](https://github.com/cywr/android-re-ctfs)
     - Original app: [lolo-io/OneList](https://github.com/lolo-io/OneList)
-  - **Write-up**: [Add write-up link here]
+  - **Write-up**: [reverselabs.dev](https://reverselabs.dev/blog/onelist-ctf-8-hours-10-minutes-8-flags)
