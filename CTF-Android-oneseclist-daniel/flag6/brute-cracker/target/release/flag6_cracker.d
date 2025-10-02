@@ -1,0 +1,1 @@
+/Users/carlosadrianosj/Documents/the-mobile-setup/Android/CTF-Android-oneseclist/java-flag6/brute-cracker/target/release/flag6_cracker: /Users/carlosadrianosj/Documents/the-mobile-setup/Android/CTF-Android-oneseclist/java-flag6/brute-cracker/src/main.rs
